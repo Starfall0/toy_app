@@ -1,0 +1,7 @@
+ => 
+[32m#<User:0x00007f36bd9fb168[0m
+ id: [34m[1m1[0m,
+ name: [31m[1m"[0m[31mMichael Hartl[0m[31m[1m"[0m,
+ email: [31m[1m"[0m[31mmichael1@example.org[0m[31m[1m"[0m,
+ created_at: Sat, 06 Jan 2024 09:07:16.749460000 UTC +00:00,
+ updated_at: Sat, 06 Jan 2024 09:07:24.220374000 UTC +00:00[32m>[0m 
