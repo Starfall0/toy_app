@@ -67,4 +67,8 @@ Rails.application.configure do
 
   # Uncomment if you wish to allow Action Cable access from any origin.
   # config.action_cable.disable_request_forgery_protection = true
+
+  # ****** I ADD THIS: 6/JAN/2024 ****** #
+  # Allow connections to local server on cloud IDE.
+  config.hosts.clear
 end
